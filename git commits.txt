@@ -1,0 +1,156 @@
+Diego-Dell@DESKTOP-UC9Q816 MINGW64 ~/Desktop/coderhouse/Nuevo ejemplo/Segunda entrega
+$ git init
+Initialized empty Git repository in C:/Users/VA-SE COMPUTACION/Desktop/coderhous
+e/Nuevo ejemplo/Segunda entrega/.git/
+
+Diego-Dell@DESKTOP-UC9Q816 MINGW64 ~/Desktop/coderhouse/Nuevo ejemplo/Segunda entrega (master)
+$ git add .
+warning: in the working copy of 'assets/img/logo-footer.svg', LF will be replace
+d by CRLF the next time Git touches it
+warning: in the working copy of 'assets/img/logo.svg', LF will be replaced by CR
+LF the next time Git touches it
+warning: in the working copy of 'css/bootstrap-grid.css', LF will be replaced by
+ CRLF the next time Git touches it
+warning: in the working copy of 'css/bootstrap-grid.min.css', LF will be replace
+d by CRLF the next time Git touches it
+warning: in the working copy of 'css/bootstrap-grid.rtl.css', LF will be replace
+d by CRLF the next time Git touches it
+warning: in the working copy of 'css/bootstrap-grid.rtl.min.css', LF will be rep
+laced by CRLF the next time Git touches it
+warning: in the working copy of 'css/bootstrap-reboot.css', LF will be replaced
+by CRLF the next time Git touches it
+warning: in the working copy of 'css/bootstrap-reboot.min.css', LF will be repla
+ced by CRLF the next time Git touches it
+warning: in the working copy of 'css/bootstrap-reboot.rtl.css', LF will be repla
+ced by CRLF the next time Git touches it
+warning: in the working copy of 'css/bootstrap-reboot.rtl.min.css', LF will be r
+eplaced by CRLF the next time Git touches it
+warning: in the working copy of 'css/bootstrap-utilities.css', LF will be replac
+ed by CRLF the next time Git touches it
+warning: in the working copy of 'css/bootstrap-utilities.min.css', LF will be re
+placed by CRLF the next time Git touches it
+warning: in the working copy of 'css/bootstrap-utilities.rtl.css', LF will be re
+placed by CRLF the next time Git touches it
+warning: in the working copy of 'css/bootstrap-utilities.rtl.min.css', LF will b
+e replaced by CRLF the next time Git touches it
+warning: in the working copy of 'css/bootstrap.css', LF will be replaced by CRLF
+ the next time Git touches it
+warning: in the working copy of 'css/bootstrap.min.css', LF will be replaced by
+CRLF the next time Git touches it
+warning: in the working copy of 'css/bootstrap.rtl.css', LF will be replaced by
+CRLF the next time Git touches it
+warning: in the working copy of 'css/bootstrap.rtl.min.css', LF will be replaced
+ by CRLF the next time Git touches it
+warning: in the working copy of 'js/bootstrap.bundle.js', LF will be replaced by
+ CRLF the next time Git touches it
+warning: in the working copy of 'js/bootstrap.bundle.min.js', LF will be replace
+d by CRLF the next time Git touches it
+warning: in the working copy of 'js/bootstrap.esm.js', LF will be replaced by CR
+LF the next time Git touches it
+warning: in the working copy of 'js/bootstrap.esm.min.js', LF will be replaced b
+y CRLF the next time Git touches it
+warning: in the working copy of 'js/bootstrap.js', LF will be replaced by CRLF t
+he next time Git touches it
+warning: in the working copy of 'js/bootstrap.min.js', LF will be replaced by CR
+LF the next time Git touches it
+
+Diego-Dell@DESKTOP-UC9Q816 MINGW64 ~/Desktop/coderhouse/Nuevo ejemplo/Segunda entrega (master)
+$ git commit -m "Primer Commit"
+[master (root-commit) 82243d5] Primer Commit
+ 73 files changed, 60292 insertions(+)
+ create mode 100644 assets/img/1.jpg
+ create mode 100644 assets/img/2.jpg
+ create mode 100644 assets/img/3.jpg
+ create mode 100644 assets/img/creatividad.png
+ create mode 100644 assets/img/experiencia.png
+ create mode 100644 assets/img/experiencia2.png
+ create mode 100644 assets/img/fondo.jpg
+ create mode 100644 assets/img/gpw.png
+ create mode 100644 assets/img/group-idea.png
+ create mode 100644 assets/img/iso.png
+ create mode 100644 assets/img/logo-footer.svg
+ create mode 100644 assets/img/logo.svg
+ create mode 100644 assets/img/pexels-christina-morillo-1181263.jpg
+ create mode 100644 assets/img/pexels-christina-morillo-1181275.jpg
+ create mode 100644 assets/img/pexels-christina-morillo-1181676.jpg
+ create mode 100644 assets/img/slide1.jpg
+ create mode 100644 assets/img/slide2.jpg
+ create mode 100644 assets/img/slide3.jpg
+ create mode 100644 assets/img/slide4.jpg
+ create mode 100644 assets/img/slide5.jpg
+ create mode 100644 assets/img/slide6.jpg
+ create mode 100644 assets/img/tecnologia.png
+ create mode 100644 css/bootstrap-grid.css
+ create mode 100644 css/bootstrap-grid.css.map
+ create mode 100644 css/bootstrap-grid.min.css
+ create mode 100644 css/bootstrap-grid.min.css.map
+ create mode 100644 css/bootstrap-grid.rtl.css
+ create mode 100644 css/bootstrap-grid.rtl.css.map
+ create mode 100644 css/bootstrap-grid.rtl.min.css
+ create mode 100644 css/bootstrap-grid.rtl.min.css.map
+ create mode 100644 css/bootstrap-reboot.css
+ create mode 100644 css/bootstrap-reboot.css.map
+ create mode 100644 css/bootstrap-reboot.min.css
+ create mode 100644 css/bootstrap-reboot.min.css.map
+ create mode 100644 css/bootstrap-reboot.rtl.css
+ create mode 100644 css/bootstrap-reboot.rtl.css.map
+ create mode 100644 css/bootstrap-reboot.rtl.min.css
+ create mode 100644 css/bootstrap-reboot.rtl.min.css.map
+ create mode 100644 css/bootstrap-utilities.css
+ create mode 100644 css/bootstrap-utilities.css.map
+ create mode 100644 css/bootstrap-utilities.min.css
+ create mode 100644 css/bootstrap-utilities.min.css.map
+ create mode 100644 css/bootstrap-utilities.rtl.css
+ create mode 100644 css/bootstrap-utilities.rtl.css.map
+ create mode 100644 css/bootstrap-utilities.rtl.min.css
+ create mode 100644 css/bootstrap-utilities.rtl.min.css.map
+ create mode 100644 css/bootstrap.css
+ create mode 100644 css/bootstrap.css.map
+ create mode 100644 css/bootstrap.min.css
+ create mode 100644 css/bootstrap.min.css.map
+ create mode 100644 css/bootstrap.rtl.css
+ create mode 100644 css/bootstrap.rtl.css.map
+ create mode 100644 css/bootstrap.rtl.min.css
+ create mode 100644 css/bootstrap.rtl.min.css.map
+ create mode 100644 css/style.css
+ create mode 100644 historia.html
+ create mode 100644 index.html
+ create mode 100644 js/bootstrap.bundle.js
+ create mode 100644 js/bootstrap.bundle.js.map
+ create mode 100644 js/bootstrap.bundle.min.js
+ create mode 100644 js/bootstrap.bundle.min.js.map
+ create mode 100644 js/bootstrap.esm.js
+ create mode 100644 js/bootstrap.esm.js.map
+ create mode 100644 js/bootstrap.esm.min.js
+ create mode 100644 js/bootstrap.esm.min.js.map
+ create mode 100644 js/bootstrap.js
+ create mode 100644 js/bootstrap.js.map
+ create mode 100644 js/bootstrap.min.js
+ create mode 100644 js/bootstrap.min.js.map
+ create mode 100644 views/historia.html
+ create mode 100644 views/metodologia.html
+ create mode 100644 views/servicios.html
+ create mode 100644 views/valores.html
+
+Diego-Dell@DESKTOP-UC9Q816 MINGW64 ~/Desktop/coderhouse/Nuevo ejemplo/Segunda entrega (master)
+$ git branch -m main
+
+Diego-Dell@DESKTOP-UC9Q816 MINGW64 ~/Desktop/coderhouse/Nuevo ejemplo/Segunda entrega (main)
+$ git remote add origin https://github.com/diegowie/artekium-web.git
+
+Diego-Dell@DESKTOP-UC9Q816 MINGW64 ~/Desktop/coderhouse/Nuevo ejemplo/Segunda entrega (main)
+$ git push -u origin main
+info: please complete authentication in your browser...
+Enumerating objects: 80, done.
+Counting objects: 100% (80/80), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (79/79), done.
+Writing objects: 100% (80/80), 22.70 MiB | 2.34 MiB/s, done.
+Total 80 (delta 32), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (32/32), done.
+To https://github.com/diegowie/artekium-web.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+Diego-Dell@DESKTOP-UC9Q816 MINGW64 ~/Desktop/coderhouse/Nuevo ejemplo/Segunda entrega (main)
+$
